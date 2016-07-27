@@ -1,0 +1,23 @@
+{
+  "name": "lst-to-json",
+  "version": "0.1.0",
+  "description": "Converts spool (lst) files to JSON via streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clounie/lst-to-json.git"
+  },
+  "author": "Bruce Clounie <bruce.w.clounie@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/clounie/lst-to-json/issues"
+  },
+  "homepage": "https://github.com/clounie/lst-to-json#readme",
+  "dependencies": {
+    "byline": "^5.0.0",
+    "lodash.trim": "^4.5.0",
+    "stream-transform": "^0.1.1"
+  }
+}

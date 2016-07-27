@@ -1,9 +1,3 @@
-# lst-to-json
-Transforms a spool (lst) file to json line-by-line via streams
-
-## Example Usage:
-
-```js  
 var lstToJSON = require('lst-to-json');
 
 var lstHeaders = [
@@ -21,4 +15,3 @@ lstToJSON( {
 	inputFile: 'someInput.lst',
 	outputFile: 'someOutput.json'
 });
-```  
