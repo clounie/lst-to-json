@@ -1,1 +1,1 @@
-module.exports = require('./lst-to-json');
+module.exports = require('./lib/lst-to-json');
