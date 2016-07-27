@@ -1,6 +1,6 @@
 {
   "name": "lst-to-json",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts spool (lst) files to JSON via streams",
   "main": "index.js",
   "scripts": {
